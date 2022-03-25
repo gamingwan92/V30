@@ -698,7 +698,7 @@ participant: `0@s.whatsapp.net`, ...(from ?
 },
 message: { 
 "videoMessage": { 
-"title": `Ryuuka Botz🐧`,
+"title": `WZ BOT OFFICIAL`,
 "h": `${tampilUcapan} ${pushname}`,
 'duration': '99999', 
 'caption': `${tampilUcapan} ${pushname}`,
